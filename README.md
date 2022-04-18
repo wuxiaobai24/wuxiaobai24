@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [aa-gatsby-blog](https://github.com/wuxiaobai24/aa-gatsby-blog)
 
-- 📝 I regulary write articles on [codeand.fun](codeand.fun)
+- 📝 I regulary write articles on [codeand.fun](https://codeand.fun/)
 
 - 📫 How to reach me **wuxiaobai24@foxmail.com**
 
